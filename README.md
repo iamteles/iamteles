@@ -5,13 +5,11 @@ Mainly been doing FNF mods so thats probably what you're gonna see here.
 I code in Haxe, using the OpenFL framework and the HaxeFlixel game engine.
 
 ### Main Projects
-- FNF: Doido Engine ([Engine](https://github.com/DoidoTeam/FNF-Doido-Engine)/[Wiki](https://doidoteam.github.io/wiki/))
+- [FNF: Doido Engine](https://doidoteam.github.io/wiki/))
 - [FNF: Dead of Night](https://github.com/iamteles/FNF-Dead-of-Night-Legacy)
 - [Characteristic Disparity](https://github.com/iamteles/Characteristic-Disparity-V2)
 - [Mirror Life Crisis](https://github.com/iamteles/Mirror-Life-Crisis)
 - VS Tails.EXE ([V1](https://github.com/iamteles/VS-Tails.EXE-V1)/[V2](https://github.com/iamteles/VS-Tails.EXE-V2))
-
-[![teles's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamteles)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **iamteles/iamteles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
