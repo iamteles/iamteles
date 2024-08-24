@@ -5,7 +5,7 @@ Mainly been doing FNF mods so thats probably what you're gonna see here.
 I code in Haxe, using the OpenFL framework and the HaxeFlixel game engine.
 
 ### Main Projects
-- [FNF: Doido Engine](https://doidoteam.github.io/wiki/))
+- [FNF: Doido Engine](https://doidoteam.github.io/wiki/)
 - [FNF: Dead of Night](https://github.com/iamteles/FNF-Dead-of-Night-Legacy)
 - [Characteristic Disparity](https://github.com/iamteles/Characteristic-Disparity-V2)
 - [Mirror Life Crisis](https://github.com/iamteles/Mirror-Life-Crisis)
