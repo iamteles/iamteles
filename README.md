@@ -2,7 +2,7 @@
 
 Welcome to the awesome teles Github.
 Mainly been doing FNF mods so thats probably what you're gonna see here.
-I code in Haxe, using the OpenFL framework and the HaxeFlixel game engine.
+I code in [Haxe](https://haxe.org/), using the [OpenFL](https://www.openfl.org/) framework and the [HaxeFlixel](https://haxeflixel.com/) game engine.
 
 ### Main Projects
 - [FNF: Doido Engine](https://doidoteam.github.io/wiki/)
